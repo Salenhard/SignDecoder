@@ -1,0 +1,43 @@
+C:\C++\Seti 1\bin\Debug\Seti 1.exe.config
+C:\C++\Seti 1\bin\Debug\Seti 1.exe
+C:\C++\Seti 1\bin\Debug\Seti 1.pdb
+C:\C++\Seti 1\obj\Debug\Seti 1.csproj.AssemblyReference.cache
+C:\C++\Seti 1\obj\Debug\Seti 1.csproj.SuggestedBindingRedirects.cache
+C:\C++\Seti 1\obj\Debug\Seti_1.Form1.resources
+C:\C++\Seti 1\obj\Debug\Seti_1.Properties.Resources.resources
+C:\C++\Seti 1\obj\Debug\Seti 1.csproj.GenerateResource.cache
+C:\C++\Seti 1\obj\Debug\Seti 1.csproj.CoreCompileInputs.cache
+C:\C++\Seti 1\obj\Debug\Seti 1.exe
+C:\C++\Seti 1\obj\Debug\Seti 1.pdb
+C:\Users\User\Desktop\Seti 1\obj\Debug\Seti 1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seti 1\obj\Debug\Seti 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Seti 1\obj\Debug\Seti_1.Form1.resources
+C:\Users\User\Desktop\Seti 1\obj\Debug\Seti_1.Properties.Resources.resources
+C:\Users\User\Desktop\Seti 1\obj\Debug\Seti 1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Seti 1\obj\Debug\Seti 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seti 1\obj\Debug\Seti 1.exe
+C:\Users\User\Desktop\Seti 1\obj\Debug\Seti 1.pdb
+C:\Users\User\Desktop\Seti 1\bin\Debug\Seti 1.exe.config
+C:\Users\User\Desktop\Seti 1\bin\Debug\Seti 1.exe
+C:\Users\User\Desktop\Seti 1\bin\Debug\Seti 1.pdb
+F:\Seti 1\bin\Debug\Seti 1.exe.config
+F:\Seti 1\bin\Debug\Seti 1.exe
+F:\Seti 1\bin\Debug\Seti 1.pdb
+F:\Seti 1\obj\Debug\Seti 1.csproj.AssemblyReference.cache
+F:\Seti 1\obj\Debug\Seti_1.Form1.resources
+F:\Seti 1\obj\Debug\Seti_1.Properties.Resources.resources
+F:\Seti 1\obj\Debug\Seti 1.csproj.GenerateResource.cache
+F:\Seti 1\obj\Debug\Seti 1.csproj.CoreCompileInputs.cache
+F:\Seti 1\obj\Debug\Seti 1.exe
+F:\Seti 1\obj\Debug\Seti 1.pdb
+D:\Seti 1\bin\Debug\Seti 1.exe.config
+D:\Seti 1\bin\Debug\Seti 1.exe
+D:\Seti 1\bin\Debug\Seti 1.pdb
+D:\Seti 1\obj\Debug\Seti 1.csproj.AssemblyReference.cache
+D:\Seti 1\obj\Debug\Seti 1.csproj.SuggestedBindingRedirects.cache
+D:\Seti 1\obj\Debug\Seti_1.Form1.resources
+D:\Seti 1\obj\Debug\Seti_1.Properties.Resources.resources
+D:\Seti 1\obj\Debug\Seti 1.csproj.GenerateResource.cache
+D:\Seti 1\obj\Debug\Seti 1.csproj.CoreCompileInputs.cache
+D:\Seti 1\obj\Debug\Seti 1.exe
+D:\Seti 1\obj\Debug\Seti 1.pdb
